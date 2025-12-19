@@ -7,7 +7,7 @@ This repository contains the code
 
 > **"Title"**
 
-Auther, accepted by *IEEE*.
+Authers, accepted by *IEEE*.
 
 The paper can be found at [IEEE](https://ieeexplore.ieee.org).
 
