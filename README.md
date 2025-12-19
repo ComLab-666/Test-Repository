@@ -45,14 +45,14 @@ pip install -r requirements.txt
 help cite:
 
 ```bibtex
-@ARTICLE{11219087,
-  author={author},
+@ARTICLE{66666666,
+  author={authors},
   journal={???}, 
   title={title}, 
   year={2025},
   volume={},
   number={},
   pages={1-1},
-  keywords={keyword},
+  keywords={keywords},
   doi={???}}
 ```
